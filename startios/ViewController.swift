@@ -8,8 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
+        let startIOS = "iOS"
         super.viewDidLoad()
     }
 }
